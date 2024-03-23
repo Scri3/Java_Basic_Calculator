@@ -1,1 +1,2 @@
-# Java_Simple_Calculator
+# Java Basic Calculator
+A basic (four operations) calculator written in Java.
